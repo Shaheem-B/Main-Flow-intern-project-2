@@ -1,0 +1,67 @@
+Exploratory Data Analysis and sales prediction 
+
+Objective:
+➩The project involved performing Exploratory Data Analysis (EDA) on datasets to identify
+trends, patterns, anomalies, and relationships among variables. Additionally, a Sales 
+Performance Analysis was conducted to derive insights and build predictive models.
+
+Task 1: General EDA
+
+Steps Followed:
+1)Dataset Selection:
+➩Used a dataset (e.g., "Global Superstore") containing columns like Sales, Profit, Region, 
+and Product Categories.
+
+2)Data Cleaning:
+➩Handled missing values by filling or removing affected entries.
+➩Removed duplicate records.
+➩Identified and treated outliers using statistical methods (IQR, Z-score).
+
+3)Statistical Analysis:
+➩Computed key metrics (mean, median, standard deviation, variance).
+➩Analyzed correlations between variables.
+
+4)Data Visualization:
+➩Histograms for numerical data distributions.
+➩Boxplots to detect outliers.
+➩Heatmaps to visualize feature correlations.
+
+Deliverables:
+✅ A cleaned dataset with no missing values or duplicates.
+✅ Summary report highlighting trends and anomalies.
+✅ Visualizations including histograms, boxplots, and heatmaps.
+
+Task 2: Sales Performance Analysis
+
+Steps Followed:
+1)Dataset Selection:
+➩Used "sales_data.csv" with columns like Product, Region, Sales, Profit, Discount, 
+Category, and Date.
+
+2)Data Cleaning:
+➩Removed duplicate records.
+➩Filled missing values using appropriate statistical methods.
+➩Converted date column to datetime format for trend analysis.
+
+3)Exploratory Data Analysis:
+➩Time series graphs to study sales trends over time.
+➩Scatter plots to analyze the relationship between Profit and Discount.
+➩Bar/pie charts to show sales distribution by Region and Category.
+
+4)Predictive Modeling:
+➩Built a Linear Regression Model to predict Sales based on Profit and Discount.
+➩Evaluated model performance using R² score and Mean Squared Error (MSE).
+
+Deliverables:
+✅ Visualizations: Time series plots, scatter plots, bar/pie charts.
+✅ Predictive Model for Sales forecasting.
+✅ Actionable insights to improve sales performance.
+
+Key Outcomes
+➩Gained expertise in data cleaning, analysis, and visualization.
+➩Identified factors affecting sales performance and derived insights.
+➩Developed a simple predictive model for decision-making.
+➩Improved time management and task prioritization skills by adhering to strict deadlines.
+
+This project provided hands-on experience in real-world data analysis and business intelligence,
+equipping learners with practical skills for data-driven decision-making.
